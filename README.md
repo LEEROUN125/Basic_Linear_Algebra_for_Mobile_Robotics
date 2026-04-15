@@ -47,3 +47,5 @@ This course is built upon the excellent educational foundations of:
 MIT 18.06 Linear Algebra by Prof. Gilbert Strang.
 
 UMich ROB 501: Mathematics for Robotics.
+
+## PDF Version will be updated !
